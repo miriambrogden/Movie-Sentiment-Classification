@@ -1,8 +1,4 @@
-﻿README
-
-
-*** Student Information ***
-Student Name:         Miriam Snow
+﻿Created by: Miriam Snow
 
 
 *** Organization of Files ***
